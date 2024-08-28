@@ -93,7 +93,7 @@ input[type=text], input[type=password] {
     margin: 20px; 
     display: flex;
     padding: 15px;
-    border-radius: 10px;
+    border-radius: 50px;
     min-width: 50px;
     text-align: center;
     align-items: center;
