@@ -39,16 +39,18 @@ body{
     height: 150px;
     top: 30%;
     left: 60%;
-    background-color: rgba(0, 0, 255, 0.5);
+    background-color: #f44336;
     animation-duration: 15s;
+    opacity: 0.8;
 }
 .shape3 {
     width: 200px;
     height: 200px;
     top: 50%;
     left: 80%;
-    background-color: rgba(255, 255, 0, 0.5);
+    background-color: #f44336;
     animation-duration: 20s;
+    opacity: 0.8;
 }
 form {
     background-color: #f44336;
